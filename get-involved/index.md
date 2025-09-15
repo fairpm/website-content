@@ -28,5 +28,5 @@ The FAIR plugin is no different from any other plugin, and there's no configurat
 
 ### **Set up your own Mini-FAIR Repo**
 
-The Mini-FAIR Repo plugin is used to create a repository of plugins on your own site. See [Installation for End Users (GitHub](https://github.com/fairpm/mini-fair-repo/tree/main#using-mini-fair)) and [Creating a DID for your package (GitHub)](https://github.com/fairpm/mini-fair-repo/tree/main#creating-a-did-for-your-package)
+The Mini-FAIR Repo plugin is used to create a repository of plugins on your own site. See [Installation for End Users (GitHub)](https://github.com/fairpm/mini-fair-repo/tree/main#using-mini-fair) and [Creating a DID for your package (GitHub)](https://github.com/fairpm/mini-fair-repo/tree/main#creating-a-did-for-your-package)
 
