@@ -20,13 +20,13 @@ Due to differing release schedules, some of the listed items will be released ea
   - Feature list
 - AspireCloud “Kilimanjaro” Milestone
   - Index package(s) served by Mini-FAIR Repo(s)
-  - Web:DID applied to [WordPress.org](http://WordPress.org) mirror packages
+  - Web:DID applied to [WordPress.org](https://WordPress.org) mirror packages
   - Response to FAIR Protocol as well as WordPress API
   - Improved search performance (pagination)
   - Serve combined search results from FAIR repos & WordPress mirror
   - Faceted search
-- [fair.pm](http://fair.pm) Website
-  - Initial launch to replace current redirect to Github
+- [fair.pm](https://fair.pm) Website
+  - Initial launch to replace current redirect to GitHub
 - Protocol & Documentation
   - Draft Discovery Aggregator Spec
   - Draft Moderation Process Business Rules
@@ -41,7 +41,7 @@ The following reflects work which is envisioned or planned, but not yet attached
 - Marketing & PR
   - Visual identity, messaging, & brand guidelines
   - Graphic design for website
-- [fair.pm](http://fair.pm) Website
+- [fair.pm](https://fair.pm) Website
   - Knowledge Base
   - Additional Content Development
 - FAIR Plugin
