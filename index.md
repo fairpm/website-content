@@ -12,11 +12,6 @@ Decentralised WordPress packages are here. The working group for Federated And I
 
 FAIR’s primary goal is to improve security in the software supply chain while establishing a decentralized distribution model where no single entity controls the supply chain from end to end.
 
-**F**ederated
-**A**nd
-**I**ndependent
-**R**epositories
-
 Based on work by numerous contributors beginning in the fall of 2024, FAIR was conceptualized in early 2025 and announced in a public launch on June 5, 2025 in Basel, Switzerland. To help establish effective governance with third-party oversight, The FAIR Package Manager (FAIR Package Manager a Series of LF Projects, LLC) was then created as a project under the Linux Foundation.
 
 ## Explore WordPress Packages
