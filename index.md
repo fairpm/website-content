@@ -1,6 +1,6 @@
 # Home
 
-[FAIR.pm](http://fair.pm) is a groundbreaking new way of distributing software from a decentralized group of repositories.
+FAIR is a groundbreaking new way of distributing software from a decentralized group of repositories.
 
 ## Discover, trust, install: FAIR 1.0 is here
 
