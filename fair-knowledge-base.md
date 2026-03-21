@@ -50,7 +50,7 @@ FAIR is an acronym and stands for **F**ederated **A**nd **I**ndependent **R**epo
 
 The core FAIR [protocol specification](https://github.com/fairpm/fair-protocol/blob/main/specification.md)
 
-### **FAIR Distro**
+### **FAIR WordPress Distro**
 
 A full WordPress distribution with FAIR preinstalled. Ideal for provisioning workflows. Available in the [release assets](https://github.com/fairpm/fair-plugin/releases) associated with FAIR Plugin releases.
 
@@ -58,9 +58,9 @@ A full WordPress distribution with FAIR preinstalled. Ideal for provisioning wor
 
 The overarching project creating a distributed system for software package releases.
 
-### **FAIR Plugin**
+### **FAIR WordPress Plugin**
 
-[A plugin](https://github.com/fairpm/fair-plugin) that configures your site to use FAIR implementations of the key services that are currently centralized on WordPress.org. Installable on any individual WordPress site, no configuration needed.
+[A WordPress plugin](https://github.com/fairpm/fair-plugin) that configures your site to use FAIR implementations of the key services that are currently centralized on WordPress.org. Installable on any individual WordPress site, no configuration needed.
 
 FAIR can be installed manually by downloading the latest zip from releases and installing it via your WordPress admin dashboard.
 
@@ -104,5 +104,5 @@ A server that hosts one or more packages and their DIDs. You can set up a reposi
 
 ### **TSC (Technical Steering Committee)**
 
-The *Technical Steering Committee* is the organization responsible for determining the technical requirements and implementation for the FAIR package manager.
+The *Technical Steering Committee* is the organization responsible for determining the technical requirements and implementation for the FAIR package manager. You can find [the current members of the TSC on Github](https://github.com/fairpm/tsc/blob/main/organizers.md).
 

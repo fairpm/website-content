@@ -22,9 +22,9 @@ FAIR's governance operates through the Linux Foundation. As such, if you want to
 
 You can use FAIR on your own website today. Take a test drive and report any issues you see.
 
-### **Connect your site to FAIR with the FAIR plugin**
+### **Connect your WordPress site to FAIR with the FAIR plugin**
 
-The FAIR plugin is no different from any other plugin, and there's no configuration required. Download the latest version from the [FAIR Plugin releases page](https://github.com/fairpm/fair-plugin/releases).  You can discuss or report any issues in the [FAIR plugin's GitHub repository](https://github.com/fairpm/fair-plugin/issues).
+The FAIR WordPress plugin is no different from any other plugin, and there's no configuration required. Download the latest version from the [FAIR Plugin releases page](https://github.com/fairpm/fair-plugin/releases).  You can discuss or report any issues in the [FAIR plugin's GitHub repository](https://github.com/fairpm/fair-plugin/issues).
 
 ### **Set up your own Mini-FAIR Repo**
 

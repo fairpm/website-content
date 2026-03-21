@@ -1,9 +1,21 @@
 # Packages
 
-Extend WordPress with plugins, or change your look completely with themes.
+A **package** is an add-on for your website — a plugin or extension that adds new features, or a theme that changes how your site looks. Packages on FAIR are published by independent developers and hosted across a federated network of repositories, so you're not locked into a single source.
 
-Get access to the federated FAIR ecosystem by [installing the FAIR plugin](https://github.com/fairpm/fair-plugin/releases), or ask your host to enable FAIR for your site.
+## Choose your platform
 
-[Extend your experience Browse plugins ->](https://fair.pm/packages/plugins/){.button}
+At this moment, FAIR supports packages for two open-source content management systems (CMS). To browse packages, you'll need to know which one your website runs on.
 
-[Get a new look Browse themes ->](https://fair.pm/packages/themes/){.button}
+---
+
+[**WordPress packages**
+Browse plugins and themes for WordPress sites →](/packages/wordpress/)
+
+[**TYPO3 packages**
+Browse extensions for TYPO3 sites →](/packages/typo3/)
+
+---
+
+## Why are they separate?
+
+WordPress and TYPO3 are different platforms. A package built for one won't work on the other — they have different codebases, different ways of handling extensions, and different developer communities. Showing you packages for the wrong platform would only cause confusion, so FAIR keeps them separate.
